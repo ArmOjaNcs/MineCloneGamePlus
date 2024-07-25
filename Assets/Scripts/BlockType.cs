@@ -5,5 +5,6 @@ namespace Assets.Scripts
     {
         Air = 0,
         Ground = 1
+            //This is comment
     }
 }
